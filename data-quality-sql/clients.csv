@@ -1,0 +1,9 @@
+id_client;nom;email;pays;date_creation_compte
+1;Dupont;dupontgmail.com;France;02/01/2023
+2;Rosa;rosa@invalid;;10/12/2022
+3;Karim;karim@mail.com;Maroc;12/03/2023
+4;Elena;;Espagne;01/02/2023
+5;Smith;smith@mail.com;USA;20/05/2023
+6;Benali;benali(at)mail.com;Algerie;15/06/2023
+7;Martin;martin@mail.com;France;
+8;Tanaka;tanaka.mail.com;Japon;05/11/2022

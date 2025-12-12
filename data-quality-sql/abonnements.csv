@@ -1,0 +1,7 @@
+id_abonnement;id_client;type_abonnement;date_debut;date_fin
+101;1;Premium;05/01/2023;
+102;2;Basic;15/12/2022;20/11/2022
+103;3;Premium;15/03/2023;01/10/2023
+104;9;Basic;01/01/2023;01/05/2023
+105;4;Premium;10/02/2023;15/01/2023
+106;5;Basic;25/05/2023;
